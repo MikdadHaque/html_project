@@ -13,5 +13,16 @@ h1{
     margin-left: 5%;
 }
 .half-width img{
-    width: 80%;
+    width: 60%;
+    
+}
+.top-banner{
+    border: 1px solid red;
+    background-image: url(images/top-banner.png);
+}
+section{
+    height: 500px;
+}
+.Dream-area{
+    margin-top: 10%;
 }
